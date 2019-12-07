@@ -3,4 +3,6 @@
 
 
 python3 cirme+houseType.py
-python3 311-service.py
+
+
+python3 311-regression.py
