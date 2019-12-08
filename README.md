@@ -14,6 +14,7 @@ Identify the reasons for foreclosure in Boston.
 ) (Source: 311 Boston)  
 4. [2019 Registered Foreclosure Properties](https://data.lacity.org/A-Well-Run-City/2019-Registered-Foreclosure-Properties/rsxb-x48z) (Source: City of Los Angeles)
 5. Boston Neighborhood Development Census and Neighborhood Profiles
+  http://www.bostonplans.org/getattachment/6f48c617-cf23-4c9f-b54b-35c8a954091c
 
 ## Run Command
 To run  ```cirme+houseType.py``` file, use
